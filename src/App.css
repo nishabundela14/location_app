@@ -1,0 +1,89 @@
+.badge-color{
+  background: rgba(20, 165, 255, 0.15) !important;
+  height: 80px;
+  width: 80px;
+}
+
+.badge-color span {
+  color: #14A5FF;
+  font-size: 17px;
+  font-weight: normal;
+  line-height: 70px;
+}
+
+.heading{
+  font-size: 20px;
+  color: #111827;
+}
+
+.subheading{
+  font-size: 14px;
+  color: #6B7280;
+}
+
+.btnGrp{
+  text-align: right;
+}
+
+.grp{
+  width: 122px;
+}
+
+.gray-bar{
+  padding: 8px 4px 8px 12px;
+  height: 36px;
+  background: #F8F9FD;
+  border-radius: 5px;
+  margin-top: 16px;
+  margin-bottom: 70px;
+}
+
+.gray-bar span {
+  color: #6B7280;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  }
+
+  .img{
+    margin-right: 10px;
+  }
+
+  .space{
+    margin-left: 30px;
+  }
+  .btn-space{
+    margin-right: 10px;
+  }
+
+  .navbar-expand .navbar-toggler {
+    display: flex !important;
+    border: none;
+  }
+
+  .search {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+
+  .navHeight{
+    height: 120px;
+  }
+  .spinner{
+    margin: 0 auto;
+    display: flex;
+  }
+
+  .btn-add{
+    width: 400px;
+  }
+  .loc-map{
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: -16px;
+  }
